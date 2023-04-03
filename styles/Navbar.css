@@ -1,0 +1,9 @@
+.Navbar{
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+    height: 55px;
+    display: flex;
+    background-color: #9ab6a6;
+    border-radius: 10px;
+}

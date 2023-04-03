@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cookease",
+    "slug": "cookease",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

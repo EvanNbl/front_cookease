@@ -1,0 +1,7 @@
+.Slider{
+    width: 80%;
+    height: 80%;
+    position: relative;
+    overflow: hidden;
+    background-color: #000;
+}

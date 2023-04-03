@@ -1,0 +1,21 @@
+.container_HomePage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.divicon_HomePage{
+    position: absolute;
+    top: 20px;
+}
+
+.switch_HomePage{
+    background-color: #D7E2DC;
+    padding: 3% 8%;
+    border-radius: 100px; 
+    display: flex;
+    align-items: center;
+}
