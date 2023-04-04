@@ -1,9 +1,16 @@
-.Navbar{
-    position: absolute;
-    bottom: 10px;
-    width: 90%;
-    height: 55px;
+.navbar{
+    position: sticky;
+    height: 20px;
+    bottom: 2%;
+    width: 95%;
+    height: 8%;
+    border-radius: 11px;
+    background-color: rgba(154, 182, 166, 0.4);
+}
+
+.icones{
     display: flex;
-    background-color: #9ab6a6;
-    border-radius: 10px;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
 }

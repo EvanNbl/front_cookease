@@ -5,7 +5,7 @@ import Slider from '../components/slider'
 
 export default function Home({ navigation }) {
     return (
-        <View>
+        <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
             <div className="container_HomePage">
                 <div className="divicon_HomePage">
                     <div className="switch_HomePage">
